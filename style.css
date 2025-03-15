@@ -27,4 +27,26 @@ main img {
 main {
     text-align: center;
     padding: 10px;
+    font-size: 25px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+.line {
+    height: 2px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.gallery img {
+    width: 300px;
 }
